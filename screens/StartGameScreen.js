@@ -126,8 +126,7 @@ const styles = StyleSheet.create({
     paddingHorizontal: 15,
   },
   button: {
-    width: '40%',
-    padding: 5,
+    width: 100,
   },
   input: {
     width: 50,

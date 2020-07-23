@@ -21,6 +21,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "My first react native application",
+    "githubUrl": "https://github.com/tynindima"
   }
 }
